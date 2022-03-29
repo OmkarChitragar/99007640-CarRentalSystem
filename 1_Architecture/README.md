@@ -30,8 +30,8 @@ service provider with keeping up of the data of the rented car, to be rented car
 |-----|-------------|------|
 |LLR1| User(customer) is asked to enter their login/ register with their credentials|HLR1|
 |LLR2| User (customer) views available car details and is asked to book any|HLR2|
-|LLR3| User (customer) can book 1 or more quantity of cars|HLR2|
-|LLR4| User (customer) can pay the money for the the same |HLR3|
+|LLR3| User (customer) can book 1 or more quantity of cars plus the rental period|HLR2|
+|LLR4| User (customer) can pay the money for the the same |HLR2|
 |LLR5| User (Admin) is asked to enter their login/register with their credentials|HLR1|
 |LLR6| User (Admin) can update the rental car detailes|HLR3|
 |LLR7| User (Admin) can approve/reject the rental order recieved from the customer|HLR3|
