@@ -16,3 +16,22 @@ provider with keeping up of the data of the rented car, to be rented car, profit
 *  The user (Customer) must be able to book a car.
 *  The car renter (Admin) must be able to update the details of the rental car.
 
+## High Level Requirements
+
+| ID | Description | 
+|-----|-------------|
+|HLR1| User must login/register with their credientials|
+|HLR2| Customer must be able to book a car to be rented|
+|HLR3| Admin must be able to update the car detailes|
+
+## Low Level Requirements
+
+| ID | Description | ID |
+|-----|-------------|------|
+|LLR1| User(customer) is asked to enter their login/ register with their credentials|HLR1|
+|LLR2| User (customer) views available car details and is asked to book any|HLR2|
+|LLR3| User (customer) can book 1 or more quantity of cars|HLR2|
+|LLR4| User (customer) can pay the money for the the same |HLR3|
+|LLR5| User (Admin) is asked to enter their login/register with their credentials|HLR1|
+|LLR6| User (Admin) can update the rental car detailes|HLR3|
+|LLR7| User (Admin) can approve/reject the rental order recieved from the customer|HLR3|
