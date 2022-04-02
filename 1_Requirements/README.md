@@ -29,8 +29,9 @@ service provider with keeping up of the data of the rented car, to be rented car
 | ID | Description | ID |
 |-----|-------------|------|
 |LLR1| User(customer) must be able to login/ register with their credentials|HLR1|
-|LLR2| User (customer) can search for available cars to rent|HLR2|
+|LLR2| User (customer) can search for available cars to rent which will be checked in the database|HLR2|
 |LLR3| User (customer) can enter the rental time period and get the bill details|HLR2|
 |LLR4| User (customer) can pay the bill payment for the the same and gets the booking details|HLR2|
 |LLR5| User (Admin) must be able to login with their credentials|HLR1|
-|LLR6| User (Admin) can update the rental car detailes|HLR3|
+|LLR6| User (Admin) can update the rental car details|HLR3|
+|LLR7| User (Admin) must be able to confirm the update in the database|HLR3|
