@@ -1,6 +1,6 @@
 ## BlackBox
 
-![Screenshot (198)](https://user-images.githubusercontent.com/42509490/160670202-0e29ea6c-9432-4154-adbd-a86af69960af.png)
+![Screenshot (309)](https://user-images.githubusercontent.com/42509490/161405185-bf04398b-3422-40d9-87ae-c1df94a9e4cd.png)
 
 ## Flowchart
 
