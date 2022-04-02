@@ -4,7 +4,7 @@
 
 ## Flowchart
 
-![CarRentalSystem(Flowchart)](https://user-images.githubusercontent.com/42509490/160599568-2c1dfbc6-69d6-40ac-beb4-c1992d4352f7.png)
+![Screenshot (306)](https://user-images.githubusercontent.com/42509490/161403671-2e0f73f8-395d-4a08-9692-830067ad4fb5.png)
 
 ## Usecase Diagram
 
