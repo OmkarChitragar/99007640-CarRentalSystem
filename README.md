@@ -10,7 +10,7 @@ data of the rented car, update the rental car's detail. The admin can easily log
 
 ## Admin Credentials
 
-Username: OmkarChitragar
-Password: Admin@123
+*   Username: OmkarChitragar
+*   Password: Admin@123
 
 Load all the .Txt file along with .py file to run the code and input admin credentials mentioned above while admin login.
