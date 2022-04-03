@@ -7,8 +7,10 @@ on their mobile phones. An mobile appilication based car rental system can be a 
 ## Description
 
 Car rental system provides an user interface between the customer and the service provider. The user interface provides option for the customer user to book a car by
-adding up the required detailes, such as searching for the needed cars, rental period, type of car, payments. etc. On the other side this system provides option for
-the service provider(Admin) with keeping up of the data of the rented car, update the rental car's details .etc. 
+adding up the required detailes, such as searching for the needed cars, rental period, type of car, payments. etc. The customer has to login first, if the customer is
+new to the system then he has to signup by registering by which the data will be stored in encrypted form in the database(rental.Txt file). Then the customer can fill
+in the details and confirm the rental booking by making payment. On the other side this system provides option for the service provider(Admin) with keeping up of the
+data of the rented car, update the rental car's detail. The admin can easily login into the system as his credentials are fixed and update the rental car's details. 
 
 ## Identifying Features
 
