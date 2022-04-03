@@ -42,4 +42,4 @@ the service provider(Admin) with keeping up of the data of the rented car, updat
 
 ## 5W's & 1H
 
-![Screenshot (312)](https://user-images.githubusercontent.com/42509490/161407802-21ad24be-9a77-43f8-9875-52c9373a4768.png)
+![Screenshot (313)](https://user-images.githubusercontent.com/42509490/161407818-18481e49-4c9e-4993-80ed-bbd5be3029ee.png)
