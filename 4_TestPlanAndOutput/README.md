@@ -9,7 +9,7 @@
 ## Low Level Test Plan
 
 | ID | Description | ID | Status |
-|-----|-------------|------|
+|-----|-------------|------|-----|
 |LLR1| User(customer) must be able to login/ register with their credentials|HLR1| Pass |
 |LLR2| User (customer) can search for available cars to rent which will be checked in the database|HLR2| Pass |
 |LLR3| User (customer) can enter the rental time period and get the bill details|HLR2| Pass |
