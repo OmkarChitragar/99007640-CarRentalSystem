@@ -35,3 +35,10 @@ the service provider(Admin) with keeping up of the data of the rented car, updat
 |LLR5| User (Admin) must be able to login with their credentials|HLR1|
 |LLR6| User (Admin) can update the rental car details|HLR3|
 |LLR7| User (Admin) must be able to confirm the update in the database|HLR3|
+
+## SWOT Analysis
+
+![Screenshot (311)](https://user-images.githubusercontent.com/42509490/161407467-ec9b7be7-bd47-4146-b805-7b7b111062e0.png)
+
+## 5W's & 1H
+
