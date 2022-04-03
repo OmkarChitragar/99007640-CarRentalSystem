@@ -4,4 +4,4 @@
 
 ## Pytest
 
-![Screenshot (319)](https://user-images.githubusercontent.com/42509490/161413470-7dc1e82d-e96a-4c2b-881f-3d1eea03a580.png)
+![Screenshot (319)](https://user-images.githubusercontent.com/42509490/161414904-b3b0ced4-7483-4825-8d38-8910b0c8508e.png)
