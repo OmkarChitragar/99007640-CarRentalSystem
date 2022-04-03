@@ -1,4 +1,8 @@
-# 99007640-CarRentalSystem
+# CarRentalSystem
+
+By     : Omkar Chitragar
+Ps no. : 99007640
+Module : Object oriented programming in phyton
 
 ## Description
 
